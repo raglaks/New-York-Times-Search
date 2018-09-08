@@ -1,4 +1,4 @@
-#results{
+.results{
     border: 2px solid grey;
     border-radius: 5px;
     min-height: 50px !important;
