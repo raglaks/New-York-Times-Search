@@ -9,5 +9,13 @@ $.ajax({
   $(".btn").on("click",function() {
     event.preventDefault();
     var algo = $("#records option:selected").text();
+    var algo = $("#records option:selected").text();
+    var algo = $("#records option:selected").text();
+    var algo = $("#records option:selected").text();
+    var algo = $("#records option:selected").text();
+    
+
+
+
     console.log(algo);
   });
