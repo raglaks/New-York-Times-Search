@@ -25,10 +25,18 @@
         data: {"api-key":"688ebf136fc34c92aa7ab402ce7123df", 'q': Serch, 'begin_date': startY,'end_date':endY,"sort":"newest"}
       }).then(function(rensonse) {
         console.log(rensonse);
+        
       });
     }
 
     
   });
 
+  function createDivS() {
+
+  };
+
+  // <h5 class="card-title">Headline goes here</h5>
+  // <p class="card-text">Snippet goes here</p>
+  // <a href="#" class="btn btn-primary">Read article</a>
   
