@@ -9,3 +9,7 @@ $.ajax({
   }).then(function(rensonse) {
     console.log(rensonse);
   });
+
+  $("").on ("click",function(event) {
+    console.log(event);
+  });
